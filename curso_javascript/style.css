@@ -1,0 +1,28 @@
+
+.color_azul {
+  color: blue;
+}
+
+li:hover {
+  color: rgb(71, 71, 250);
+  cursor: pointer;
+  transition: ease;
+}
+
+.containerInputs {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+}
+
+.containerInputs {
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  margin: 0.5rem;
+  
+}
+
+input {
+  margin: 0.3rem;
+}
